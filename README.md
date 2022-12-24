@@ -3,11 +3,26 @@
 </div>  
   
 
-- ### I'm Prem, a full-stack developer   
+### <div align="center">Hey, I'm Prem, a computer science undergrad student.</div>
+### <div align="center">Nice to see you😊, hope you're doing great🤗</div>  
+  
+
+- 💻I'm a web-dev and cloud enthusiastic  
+  
+
+- 👨‍💻Currently learning MERN Stack  
+  
+
+- 🌱 I completed [GCRF'22](https://googlecloud.qwiklabs.com/public_profiles/e4b83d0b-7777-4e43-b0b0-4546fe3762f6)  
+  
+
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
+
+- ⚡ Fun fact: I use Ctrl + C and Ctrl + V most   
   
 
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
